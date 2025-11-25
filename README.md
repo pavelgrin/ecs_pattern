@@ -1,3 +1,3 @@
-## Mimic
+## ECS Pattern
 
-Trying to create a simple game-like application based on ECS pattern.
+### Simple implementation of the ECS pattern
